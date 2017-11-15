@@ -34,6 +34,8 @@ If a specific threshold is reached I would have it scale out and spawn more Serv
    - VMName | Memory | VLAN | Esize | Fsize | CPU
    - Memory is in MB, eg. 1GB will be 1024 in the above column for the CSV
 
+### Basic Logging Functions:
+I have these here for anyone trying to create basic logging functions for their applciations, who dont feel like going through the effort of creating these, themselves.
 
 ## Authors
 
