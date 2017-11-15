@@ -1,5 +1,6 @@
 # ShowCase
 This is to showcase my previous work with automating daily life with Powershell and other languages
+These are only a few examples of what I can create, due to the nature of the business I work in, I cannot show any examples of scripts written on the company premises due to Intellectual property (IP)
 ## The New User Creation is my oldest work
 ### This was my first "major" script written to automate a task I had to repeat day in and out before I decided to give it a bash at automating the job.
 - This will Create a new user from a template user created before hand
