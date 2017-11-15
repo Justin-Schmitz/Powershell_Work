@@ -20,7 +20,7 @@ This will let you
 - Choose the service group
 - Get you the servers within the Service Group
 - Choose the server(s) to disable
-I would have Team City setup to use parameters that would choose the specific server to remove upon running.
+- I would have Team City setup to use parameters that would choose the specific server to remove upon running.
 
 ## The Mass VM Build Script
 ### I use this as part of a bigger project to query the connections to the A10 load balancer. 
