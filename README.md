@@ -13,13 +13,13 @@ These are only a few examples of what I can create, due to the nature of the bus
 ## A10 Automation script
 ### This is a part of a greater script I use in conjunction with Team City for our CI/CD deployments
 This will let you
-        - Allow self signed Certs sessions to the A10 via Powershell
-        - Get a token for the API session
-        - Get you a session ID
-        - choose an Active Partition on the A10 Load Balancer
-        - Choose the service group
-        - Get you the servers within the Service Group
-        - Choose the server(s) to disable
+- Allow self signed Certs sessions to the A10 via Powershell
+- Get a token for the API session
+- Get you a session ID
+- choose an Active Partition on the A10 Load Balancer
+- Choose the service group
+- Get you the servers within the Service Group
+- Choose the server(s) to disable
 I would have Team City setup to use parameters that would choose the specific server to remove upon running.
 
 ## The Mass VM Build Script
